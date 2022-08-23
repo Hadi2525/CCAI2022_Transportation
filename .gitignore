@@ -7,6 +7,7 @@ __pycache__/
 *.so
 .DS_Store
 .foursquare_API.json
+.mapbox_token
 # Distribution / packaging
 .Python
 build/

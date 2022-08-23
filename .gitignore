@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 .DS_Store
+.foursquare_API.json
 # Distribution / packaging
 .Python
 build/

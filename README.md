@@ -6,7 +6,7 @@ The adoption number of electric vehicles (EVs) has increased significantly world
 
 
 <div align="center">
-	<img width="500" height="350" src="plots/corr_plot.png" alt="Correlation plot">
+	<img width="600" height="350" src="plots/corr_plot.png" alt="Correlation plot">
 	<br>
 </div>
 
